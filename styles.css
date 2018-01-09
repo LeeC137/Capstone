@@ -2,8 +2,8 @@
 
 .topnav {
     overflow: hidden;
-    background-color: violet;
-    opacity: 10;
+    background-color: none;
+    opacity: 0.6;
 }
 
 .topnav a {
@@ -16,8 +16,8 @@
 }
 
 .topnav a:hover {
-    background-color: magenta;
-    color: black;
+    background-color: violet;
+    color: white;
 }
 
 
