@@ -2,7 +2,8 @@
 
 .topnav {
     overflow: hidden;
-    background-color: none;
+    background-color: violet;
+    opacity: 10;
 }
 
 .topnav a {
